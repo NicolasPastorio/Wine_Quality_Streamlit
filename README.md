@@ -30,10 +30,6 @@ Criar um dashboard interativo com *Streamlit* que:
 
 ---
 
-## 🧱 Estrutura do Projeto
-
----
-
 ## 🧩 Funcionalidades Gerais
 
 - Múltiplas páginas com Streamlit
